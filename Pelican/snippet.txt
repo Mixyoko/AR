@@ -1,5 +1,5 @@
-<model-viewer src="Pelican.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
-    <button class="Hotspot" slot="hotspot-1" data-position="-0.11422329699057475m -0.0026171745616552916m 0.10360737797076705m" data-normal="-0.9481911202880299m 0.31769943450940497m -0.0008177526123980261m" data-visibility-attribute="visible">
+<model-viewer src="胖鵜鶘.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
+    <button class="Hotspot" slot="hotspot-3" data-position="0.1321851532964047m -0.015043516172116082m -0.051406199392259974m" data-normal="0.9841547418925947m 0.03685132666072833m -0.17343997155691893m" data-visibility-attribute="visible">
         <div class="HotspotAnnotation">鵜鶘玩偶</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
