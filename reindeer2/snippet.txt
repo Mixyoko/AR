@@ -1,0 +1,14 @@
+<model-viewer src="reindeer.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" auto-rotate>
+    <button class="Hotspot" slot="hotspot-3" data-position="-0.05875645309140078m 0.2514453498111444m 0.00546285731796425m" data-normal="-0.973245848399032m -0.22955854019979874m -0.009767046400303764m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">燈條小鹿</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
